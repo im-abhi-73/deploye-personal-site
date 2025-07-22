@@ -2,18 +2,18 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const topics = [
-  { title: 'Java', color: 'text-orange-600', pdf: '/public/pdf/Java.pdf' },
+  { title: 'Java', color: 'text-orange-600', pdf: 'https://www.dropbox.com/scl/fi/yaws1rxt2pgcn4lbpiu73/java.pdf?rlkey=0c7iaadlin5l9tkmmydx700rv&st=q96gpl1i&dl=0' },
   { title: 'Spring', color: 'text-green-600', pdf: '/pdfs/spring.pdf' },
   { title: 'Spring Boot', color: 'text-amber-600', pdf: '/pdfs/springboot.pdf' },
   { title: 'Hibernate', color: 'text-teal-600', pdf: '/pdfs/hibernate.pdf' },
-  { title: 'HTML', color: 'text-red-500', pdf: '/public/html-tags-chart.pdf' },
+  { title: 'HTML', color: 'text-red-500', pdf: 'https://www.dropbox.com/scl/fi/8lyyvubrcp33nlapp5vf4/html-tags-chart.pdf?rlkey=79x0pr0amfz8j8rd2qs900uj9&st=05s0dd6e&dl=0' },
   { title: 'CSS', color: 'text-blue-500', pdf: '/pdfs/css.pdf' },
   { title: 'JavaScript', color: 'text-yellow-500', pdf: '/pdfs/javascript.pdf' },
   { title: 'React', color: 'text-cyan-600', pdf: '/pdfs/react.pdf' },
   { title: 'RestAPI', color: 'text-fuchsia-600', pdf: '/pdfs/restapi.pdf' },
-  { title: 'Oracle Database', color: 'text-lime-600', pdf: '/public/pdf/ORACLE_JOB(9AM).txt.pdf' },
+  { title: 'Oracle Database', color: 'text-lime-600', pdf: 'https://www.dropbox.com/scl/fi/xh6eryleulndzvy2jt6pk/oracle.pdf?rlkey=ul1467vejylc5j00q35zvtjc1&st=frb4obrx&dl=0' },
   { title: 'C Basic', color: 'text-rose-600', pdf: '/pdfs/c-basic.pdf' },
-  { title: 'Git', color: 'text-teal-600', pdf: '/public/pdf/Git.pdf' }
+  { title: 'Git', color: 'text-teal-600', pdf: 'https://www.dropbox.com/scl/fi/shwch3pxlypvqtjxz8ki1/git.pdf?rlkey=huzw62siv3t1x3g7asjuq2lr7&st=8061xel2&dl=0' }
 ];
 
 const StudyContent = () => {

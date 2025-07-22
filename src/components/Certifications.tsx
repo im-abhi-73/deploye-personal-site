@@ -6,19 +6,19 @@ const certificates = [
     id: 1,
     title: "Full Stack Java Developer",
     issuer: "Naresh IT, Hyderabad",
-    imageUrl: "/public/img/Nareshit.JPG",
+    imageUrl: "https://i.postimg.cc/yxCmfHHy/Nareshit.jpg",
   },
   {
     id: 2,
     title: "DSA with Java",
     issuer: "Apna College",
-    imageUrl: "/public/img/Apanacollege.jpg",
+    imageUrl: "https://i.postimg.cc/VL19nm4Y/Apanacollege.png",
   },
   {
     id: 3,
     title: "Career Essentials in Software Development",
     issuer: "Microsoft and LinkedIn",
-    imageUrl: "/public/img/Linkdian.JPG",
+    imageUrl: "https://i.postimg.cc/TYr7vtNP/IMG-9197.jpg",
   },
 ];
 
