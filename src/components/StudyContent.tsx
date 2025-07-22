@@ -2,17 +2,18 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const topics = [
-  { title: 'Java', color: 'text-orange-600', pdf: '/pdfs/java.pdf' },
+  { title: 'Java', color: 'text-orange-600', pdf: '/public/Java.pdf' },
   { title: 'Spring', color: 'text-green-600', pdf: '/pdfs/spring.pdf' },
   { title: 'Spring Boot', color: 'text-amber-600', pdf: '/pdfs/springboot.pdf' },
   { title: 'Hibernate', color: 'text-teal-600', pdf: '/pdfs/hibernate.pdf' },
-  { title: 'HTML', color: 'text-red-500', pdf: '/pdfs/html.pdf' },
+  { title: 'HTML', color: 'text-red-500', pdf: '/public/html-tags-chart.pdf' },
   { title: 'CSS', color: 'text-blue-500', pdf: '/pdfs/css.pdf' },
   { title: 'JavaScript', color: 'text-yellow-500', pdf: '/pdfs/javascript.pdf' },
   { title: 'React', color: 'text-cyan-600', pdf: '/pdfs/react.pdf' },
   { title: 'RestAPI', color: 'text-fuchsia-600', pdf: '/pdfs/restapi.pdf' },
-  { title: 'MySQL', color: 'text-lime-600', pdf: '/pdfs/mysql.pdf' },
-  { title: 'C Basic', color: 'text-rose-600', pdf: '/pdfs/c-basic.pdf' }
+  { title: 'Oracle Database', color: 'text-lime-600', pdf: '/public/ORACLE_JOB(9AM).txt.pdf' },
+  { title: 'C Basic', color: 'text-rose-600', pdf: '/pdfs/c-basic.pdf' },
+  { title: 'Git', color: 'text-teal-600', pdf: '/public/Git.pdf' }
 ];
 
 const StudyContent = () => {

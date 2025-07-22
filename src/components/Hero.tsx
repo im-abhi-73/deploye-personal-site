@@ -58,7 +58,7 @@ const Hero = () => {
           <div>7. <a href="/mail" className="px-1 transition-colors duration-300 rounded hover:bg-yellow-300">MAIL ME</a></div>
         </div>
         <div className="space-y-1">
-          <div>8. <a href="#portfolio" className="px-1 transition-colors duration-300 rounded hover:bg-yellow-300">PORTFOLIO 2K19</a></div>
+          <div>8. <a href="#portfolio" className="px-1 transition-colors duration-300 rounded hover:bg-yellow-300">PORTFOLIO</a></div>
         </div>
       </div>
 

@@ -8,7 +8,7 @@ const projects = [
     techStack: [{ name: "Spring Boot" }, { name: "Thymeleaf" }, { name: "MySQL" }],
     features: ["CRUD operations for students", "Bootstrap responsive UI", "Pagination & validation"],
     status: "Completed",
-    diagram: "/images/student-system-diagram.png",
+    diagram: "/public/Ass.jpg",
     github: "https://github.com/yourusername/student-management",
     demo: "https://student-management-demo.com",
   },

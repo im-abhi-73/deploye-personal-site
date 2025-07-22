@@ -17,9 +17,11 @@
     "flowbite-react": "^0.4.11",
     "framer-motion": "^12.23.6",
     "lucide-react": "^0.344.0",
+    "pdfjs-dist": "^3.4.120",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-parallax-tilt": "^1.7.301",
+    "react-pdf": "^7.0.0",
     "react-router-dom": "^7.7.0",
     "react-tilt": "^1.0.2"
   },
