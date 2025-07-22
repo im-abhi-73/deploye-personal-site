@@ -9,18 +9,18 @@ const Header = () => {
         <div>
           <a
             href="/mail"
-            className="text-gray-600 hover:bg-yellow-300 px-1 py-0.5 rounded transition-colors duration-300 cursor-pointer"
+            className="px-1 text-gray-600 transition-colors duration-300 rounded cursor-pointer hover:bg-yellow-300"
           >
-            ABHEEPATIL2002@GMAIL.COM
+          ABHEEPATIL2002@GMAIL.COM
           </a>
         </div>
       </div>
 
       {/* Center */}
       <div className="space-y-1">
-        <div className="text-gray-600">BUILDING THE</div>
-        <div className="text-gray-800">FUTURE</div>
-        <div className="text-gray-600">IN CODE</div>
+        <div className="px-5 text-gray-600">BUILDING THE</div>
+        <div className="px-5 text-gray-600">FUTURE</div>
+        <div className="px-5 text-gray-600">IN CODE</div>
       </div>
 
       {/* Code Box */}
