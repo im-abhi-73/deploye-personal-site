@@ -14,7 +14,10 @@ const topics = [
   { title: 'Oracle Database', color: 'text-lime-600', pdf: 'https://www.dropbox.com/scl/fi/xh6eryleulndzvy2jt6pk/oracle.pdf?rlkey=ul1467vejylc5j00q35zvtjc1&st=frb4obrx&dl=0' },
   { title: 'C Basic', color: 'text-rose-600', pdf: 'https://www.dropbox.com/scl/fi/i82stn97hqxhch79mho3j/DECAP010_PROGRAMMING_IN_C-1.pdf?rlkey=xuhwsy07sswtn57rarnouyvrf&st=x98qcddo&dl=0' },
   { title: 'Git', color: 'text-teal-600', pdf: 'https://www.dropbox.com/scl/fi/shwch3pxlypvqtjxz8ki1/git.pdf?rlkey=huzw62siv3t1x3g7asjuq2lr7&st=8061xel2&dl=0' },
-  { title: 'Bootstrap', color: 'text-gray-600', pdf: 'https://www.dropbox.com/scl/fi/oqli207rhgfvhnbhylj6d/Bootstrap.pdf?rlkey=1w8cfwq3g2f4yzrtpgqn19753&st=22c5x7m0&dl=0' }
+  { title: 'Bootstrap', color: 'text-gray-600', pdf: 'https://www.dropbox.com/scl/fi/oqli207rhgfvhnbhylj6d/Bootstrap.pdf?rlkey=1w8cfwq3g2f4yzrtpgqn19753&st=22c5x7m0&dl=0' },
+    { title: 'Aptitude', color: 'text-yellow-900', pdf: 'https://www.dropbox.com/scl/fi/0myg6wics35xhmuivk265/100-Aptitude-Shortcuts-1.pdf?rlkey=qvostq3rcsqbeyyhfcpu7ctex&st=b3zc4wfh&dl=0' },
+
+  
 ];
 
 const StudyContent = () => {
